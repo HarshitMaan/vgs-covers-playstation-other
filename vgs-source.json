@@ -1,0 +1,43 @@
+{
+ "schema": "vgs-source/2",
+ "source_id": "vgs-covers-playstation-other",
+ "updated": "2026-11-22T09:21:30+00:00",
+ "licence": {
+  "artwork_default": {
+   "redistribution": "unknown",
+   "attribution": "Box art from the LaunchBox Games Database community (gamesdb.launchbox-app.com). Artwork belongs to its publishers."
+  }
+ },
+ "shards": [
+  {
+   "platform": "ps3",
+   "path": "manifest/ps3.5f94df7e.json",
+   "sha256": "5f94df7e4e8eceff88cf9b28feb20ba37ded84aee18e146ef08525c4dad037ee",
+   "games": 325
+  },
+  {
+   "platform": "ps4",
+   "path": "manifest/ps4.e0fd8c13.json",
+   "sha256": "e0fd8c136e0ec8fcc14e2f3e99b513f36f7e0b1e1159049cd0136494ded8b51e",
+   "games": 206
+  },
+  {
+   "platform": "ps5",
+   "path": "manifest/ps5.f5146429.json",
+   "sha256": "f5146429c0e39283a16e3ed011d13648fa2fea1472c7f4b1aa511e70c211596e",
+   "games": 69
+  },
+  {
+   "platform": "psp",
+   "path": "manifest/psp.463ea572.json",
+   "sha256": "463ea572c569d4e1ddb565c84b5be5017ba1f362b1ebb5abe82bd1c41049cdef",
+   "games": 395
+  },
+  {
+   "platform": "vita",
+   "path": "manifest/vita.2dd554e3.json",
+   "sha256": "2dd554e32807babef6f55bcc573f399d178595181a7d9e9ab3db246edbe459aa",
+   "games": 92
+  }
+ ]
+}
